@@ -1,4 +1,4 @@
 streamlit==1.23.1
-numpy>=1.19.5,<2.0  # Adjusted NumPy version range to accommodate both Streamlit and TensorFlow
+typing-extensions>=3.7.4.3,<5.0.0.0  # Adjusted typing-extensions version range
 Pillow==8.4.0
 tensorflow==2.6.0
